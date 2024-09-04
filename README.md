@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImJaeOne)](https://github.com/ryo-ma/github-profile-trophy)
 ![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true)
 [![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ImJaeOne)
 <!--
