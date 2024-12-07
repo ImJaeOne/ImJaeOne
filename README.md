@@ -1,11 +1,11 @@
 <div align="center">
   <p>
     <a href="https://dlawi0108.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white" alt="Blog"/>
-    </a>
-    <a href="mailto:dlawi0108@naver.com" target="_blank">
-      <img src="https://img.shields.io/badge/dlawi0108@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
-    </a>
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" style="height: 30px; vertical-align: middle; margin-right: 8px;"/>
+</a>
+<a href="mailto:dlawi0108@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" style="height: 30px; vertical-align: middle;"/>
+</a>
   </p>
 
   <p style="font-size: 18px; line-height: 1.6; text-align: center; color: #4A4A4A;">
@@ -13,10 +13,6 @@
   개발하면서 문제를 해결해 나가는 과정을 즐기며, 사용자에게 더 나은 경험을 제공하기 위해 꾸준히 배우고 성장하고 있습니다.<br/>
   평소에는 <strong style="color: #009688;">ISTP</strong> 성격이지만, 코딩할 때만큼은 세심함이 필요한 <strong style="color: #FF7043;">ISFJ</strong>로 변신합니다!✨<br/>
 </p>
-
-  ![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true)
-[![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ImJaeOne)
-
 
   <h2>🛠 Platforms & Languages</h2>
   <p>
@@ -43,4 +39,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </p>
+
+  ![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true)
+[![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ImJaeOne)
 </div>
