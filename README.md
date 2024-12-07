@@ -14,8 +14,9 @@
   평소에는 <strong style="color: #009688;">ISTP</strong> 성격이지만, 코딩할 때만큼은 세심함이 필요한 <strong style="color: #FF7043;">ISFJ</strong>로 변신합니다!✨<br/>
 </p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&layout=compact&hide_border=true&theme=white" alt="Top Languages"/>
+  ![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true)
+[![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ImJaeOne)
+
 
   <h2>🛠 Platforms & Languages</h2>
   <p>
