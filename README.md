@@ -8,12 +8,6 @@
 </a>
   </p>
 
-  <p style="font-size: 18px; line-height: 1.6; text-align: center; color: #4A4A4A;">
-  안녕하세요! 저는 <strong style="color: #DD0B78;">프론트엔드 개발자 임재원</strong>입니다.<br/>
-  개발하면서 문제를 해결해 나가는 과정을 즐기며, 사용자에게 더 나은 경험을 제공하기 위해 꾸준히 배우고 성장하고 있습니다.<br/>
-  평소에는 <strong style="color: #009688;">ISTP</strong> 성격이지만, 코딩할 때만큼은 세심함이 필요한 <strong style="color: #FF7043;">ISFJ</strong>로 변신합니다!✨<br/>
-</p>
-
   <h2>🛠 Platforms & Languages</h2>
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
