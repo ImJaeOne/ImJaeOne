@@ -5,10 +5,6 @@
 </a>
 <a href="mailto:dlawi0108@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" style="height: 30px; vertical-align: middle;"/>
-</a>
-    <a href="https://www.instagram.com/j_one_8/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="height: 30px; vertical-align: middle; margin-right: 8px;"/>
-</a>
   </p>
 
   <h2>🛠 Platforms & Languages</h2>
