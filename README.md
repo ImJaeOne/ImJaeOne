@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>🛠 Platforms & Languages</h2>
+  <h2>🛠Languages</h2>
   <p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
@@ -17,6 +17,8 @@
   </p>
 
 
-  ![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true)
-[![ImJaeOne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ImJaeOne)
+![ImJaeOne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&hide_border=true&title_color=004386&icon_color=004386&card_width=400&langs_count=6)
+
+
 </div>
