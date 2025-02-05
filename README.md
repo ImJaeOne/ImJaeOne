@@ -18,7 +18,7 @@
 
 
 ![ImJaeOne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImJaeOne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&hide_border=true&title_color=004386&icon_color=004386&card_width=400&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeOne&hide_border=true&title_color=004386&icon_color=004386&langs_count=6)
 
 
 </div>
