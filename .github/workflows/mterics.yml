@@ -30,9 +30,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-activity.svg
           user: ImJaeOne
-          template: classic
-          base: activity, community
+          base: header, activity, community
           config_timezone: Asia/Seoul
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
